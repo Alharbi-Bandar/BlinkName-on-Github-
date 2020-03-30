@@ -44,7 +44,7 @@ void loop() {
 	
 	// B -...   A .-    N -.    D -..   A .-    R .-.
 	
-	// let delay (1000) line 2s for long blink and let delay(500) dot 1s a short blink
+	// let delay (1000) line for long blink and let delay(500) dot a short blink
 	
 	
 	// B -... 
